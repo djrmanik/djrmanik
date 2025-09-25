@@ -5,7 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=djrmanik&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=djrmanik&theme=nord&column=-1&row=1&margin-w=9&margin-h=9&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=djrmanik&radius=12&theme=nightowl&area=true&order=5&custom_title=Activity&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
