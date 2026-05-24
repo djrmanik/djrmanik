@@ -1,6 +1,7 @@
 ![Djuhar Manik](img/djrmanik-header2.jpg)
 
-<p align="left">Computer Science student with a strong interest in data, and computational modeling. Experienced in Python and data analysis, and currently exploring quantitative systems and financial simulations. Passionate about bridging computational thinking, decision-making, and turning uncertainty in complex systems with something more measurable called risk, with a strong systemic understanding of causality, opportunity cost, and risk evaluation, fascinated by how abstract data gradually transforms into structured information, how that information, when interpreted, becomes knowledge, and how connecting multiple layers of knowledge can lead to wisdom, a form of intelligence that enables better judgment and decision-making.</p>
+<p align="left">Computer Science student at Bina Nusantara University with a specialization in Cloud Technology and current independent study in Analytics & Visualization for Supply Chain Management. Strong interest in system thinking, operational strategy, and data-driven decision making. Passionate about understanding complex business and supply chain system through analytical reasoning, visualization, and AI-assisted workflows. Continuously exploring how data, operations, and decision making interact within real world organizational system.
+.</p>
 
 ###
 
